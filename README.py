@@ -33,11 +33,5 @@ Session state management to persist data between reruns
 Interactive Plotly visualizations
 Responsive layout with metrics and charts
 
-Would you like me to:
-
-Modify the scraping logic for a specific website?
-Add more analysis features?
-Include additional visualizations?
-
 
 
